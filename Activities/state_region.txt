@@ -1,0 +1,50 @@
+State	Region
+Alabama	South
+Arizona	West
+Arkansas	South
+California	West
+Colorado	West
+Connecticut	East
+Delaware	East
+District of Columbia	East
+Florida	South
+Georgia	South
+Idaho	West
+Illinois	Central
+Indiana	Central
+Iowa	Central
+Kansas	Central
+Kentucky	South
+Louisiana	South
+Maine	East
+Maryland	East
+Massachusetts	East
+Michigan	Cenrtal
+Minnesota	Central
+Mississippi	South
+Missouri	Cenrtal
+Montana	West
+Nebraska	Central
+Nevada	West
+New Hampshire	East
+New Jersey	East
+New Mexico	West
+New York	East
+North Carolina	South
+North Dakota	Cenrtal
+Ohio	East
+Oklahoma	Central
+Oregon	West
+Pennsylvania	East
+Rhode Island	East
+South Carolina	South
+South Dakota	Central
+Tennessee	South
+Texas	Central
+Utah	West
+Vermont	East
+Virginia	South
+Washington	West
+West Virginia	East
+Wisconsin	Central
+Wyoming	West
